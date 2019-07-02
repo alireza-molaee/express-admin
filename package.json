@@ -1,12 +1,41 @@
 {
   "name": "express-admin",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Generate admin panel for express app",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "express",
+    "admin",
+    "bootstrap",
+    "panel",
+    "middleware",
+    "app"
+  ],
+  "author": "Alireza Molaee <alirezamolaii@gmail.com> (https://github.com/alireza-molaee/)",
+  "license": "MIT",
+  "repository": "alireza-molaee/express-admin",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "files": [
+    "lib/index.js",
+    "CONTRIBUTING.md",
+    "HISTORY.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "moment": "^2.24.0",
+    "mustache-express": "^1.2.8",
+    "sqlite3": "^4.0.9"
+  }
 }
