@@ -1,6 +1,6 @@
 {
-  "name": "express-admin",
-  "version": "1.0.0",
+  "name": "express-cool-admin",
+  "version": "1.0.1",
   "description": "Generate admin panel for express app",
   "main": "./lib/index.js",
   "scripts": {
@@ -22,6 +22,8 @@
   },
   "files": [
     "lib/index.js",
+    "lib/views/*",
+    "lib/static/*",
     "CONTRIBUTING.md",
     "HISTORY.md",
     "LICENSE",
