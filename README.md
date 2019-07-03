@@ -1,4 +1,6 @@
 # express-cool-admin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin?ref=badge_shield)
+
 A backend library for building admin applications running in the browser on top of express. It dose not depend on any database or orm.Open sourced and maintained by Alireza.
 
 # Features
@@ -245,3 +247,6 @@ express-cool-admin is licensed under the MIT Licence, sponsored and supported by
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin?ref=badge_large)
