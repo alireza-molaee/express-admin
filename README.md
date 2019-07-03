@@ -235,6 +235,8 @@ export const userAdmin = {
 }
 ```
 
+finally you can make admin db with [make-admin-db script](scripts/make-admin-db.js) and add admin user with [add-user-to-admin script](scripts/add-user-to-admin.js)
+
 # Contributing
 Pull requests are welcome on the GitHub repository. Try to follow the coding style of the existing files, and include unit tests and documentation. Be prepared for a thorough code review, and be patient for the merge - this is an open-source initiative.
 

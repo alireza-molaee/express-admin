@@ -1,10 +1,12 @@
 {
   "name": "express-cool-admin",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Generate admin panel for express app",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "admin:init": "node ./scripts/make-admin-db.js",
+    "admin:add-user": "node ./scripts/add-user-to-admin.js"
   },
   "keywords": [
     "express",
