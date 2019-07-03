@@ -1,5 +1,6 @@
 ![NPM](https://img.shields.io/npm/l/express-cool-admin.svg)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin?ref=badge_shield)
+[![Gitter](https://badges.gitter.im/express-cool-admin/community.svg)](https://gitter.im/express-cool-admin/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # express-cool-admin
 A backend library for building admin applications running in the browser on top of express. It dose not depend on any database or orm.Open sourced and maintained by Alireza.
