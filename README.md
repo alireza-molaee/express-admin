@@ -1,3 +1,4 @@
+![NPM](https://img.shields.io/npm/l/express-cool-admin.svg)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falireza-molaee%2Fexpress-admin?ref=badge_shield)
 
 # express-cool-admin
