@@ -1,6 +1,6 @@
 {
   "name": "express-cool-admin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate admin panel for express app",
   "main": "./lib/index.js",
   "scripts": {
